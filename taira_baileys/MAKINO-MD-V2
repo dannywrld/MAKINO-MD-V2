@@ -1,1 +1,4 @@
-
+global.Owner = ["2348161718255"]; 
+global.OwnerName = "Levi";
+global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-OtlSUaQR#6TTMB3utwv9rmSJfipJ9WJEwe4nRF6Jo-JfxgsXcbUk"
